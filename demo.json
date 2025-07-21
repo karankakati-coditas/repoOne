@@ -1,6 +1,7 @@
 {
     "name":"Karan Kakati",
     "age":"22.9",
-    "city":["Pune","Hubli","Ichalkaranji"],
-    "salary":"450000"
+    "city":["Pune","Hubli"],
+    "salary":"450000",
+    "changes":"making changes here to simulate conflict"
 }
