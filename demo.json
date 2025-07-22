@@ -3,5 +3,7 @@
     "age":"22.9",
     "city":["Pune","Hubli"],
     "salary":"450000",
-    "changes":"making changes here to simulate conflict"
+    "changes":"making changes here to simulate conflict",
+    "date":"22 July 2025",
+    "hobby":"photography"
 }
